@@ -2,7 +2,7 @@
 
 This repository includes several research documentation supporting the work conducted by Virtual Rehab.
 
-The repository also includes some statistics around the problem of substance abuse and repeat offending.
+The repository also includes some statistics around the problem of substance use and repeat offending.
 
 
 # About Virtual Rehab
